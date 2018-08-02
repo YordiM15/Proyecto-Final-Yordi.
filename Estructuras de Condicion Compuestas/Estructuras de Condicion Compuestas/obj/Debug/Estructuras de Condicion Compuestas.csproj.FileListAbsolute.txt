@@ -1,0 +1,9 @@
+C:\Users\Yordi Matos\Documents\Visual Studio 2012\Projects\Estructuras de Condicion Compuestas\Estructuras de Condicion Compuestas\bin\Debug\Estructuras de Condicion Compuestas.exe.config
+C:\Users\Yordi Matos\Documents\Visual Studio 2012\Projects\Estructuras de Condicion Compuestas\Estructuras de Condicion Compuestas\bin\Debug\Estructuras de Condicion Compuestas.exe
+C:\Users\Yordi Matos\Documents\Visual Studio 2012\Projects\Estructuras de Condicion Compuestas\Estructuras de Condicion Compuestas\bin\Debug\Estructuras de Condicion Compuestas.pdb
+C:\Users\Yordi Matos\Documents\Visual Studio 2012\Projects\Estructuras de Condicion Compuestas\Estructuras de Condicion Compuestas\obj\Debug\Estructuras de Condicion Compuestas.csprojResolveAssemblyReference.cache
+C:\Users\Yordi Matos\Documents\Visual Studio 2012\Projects\Estructuras de Condicion Compuestas\Estructuras de Condicion Compuestas\obj\Debug\Estructuras_de_Condicion_Compuestas.FrmEstrCondicional.resources
+C:\Users\Yordi Matos\Documents\Visual Studio 2012\Projects\Estructuras de Condicion Compuestas\Estructuras de Condicion Compuestas\obj\Debug\Estructuras_de_Condicion_Compuestas.Properties.Resources.resources
+C:\Users\Yordi Matos\Documents\Visual Studio 2012\Projects\Estructuras de Condicion Compuestas\Estructuras de Condicion Compuestas\obj\Debug\Estructuras de Condicion Compuestas.csproj.GenerateResource.Cache
+C:\Users\Yordi Matos\Documents\Visual Studio 2012\Projects\Estructuras de Condicion Compuestas\Estructuras de Condicion Compuestas\obj\Debug\Estructuras de Condicion Compuestas.exe
+C:\Users\Yordi Matos\Documents\Visual Studio 2012\Projects\Estructuras de Condicion Compuestas\Estructuras de Condicion Compuestas\obj\Debug\Estructuras de Condicion Compuestas.pdb
